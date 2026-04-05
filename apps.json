@@ -1,49 +1,45 @@
 {
   "name": "THE IPA STORE",
-  "identifier": "cheatvault.ipastore.source",
+  "identifier": "com.ipastore.source",
+  "apiVersion": "1.0",
+  "subtitle": "The best apps, re-signed for you.",
+  "description": "THE IPA STORE \u2014 your source for re-signed IPA files.",
   "iconURL": "https://raw.githubusercontent.com/asutoshkhanna354-del/ipa-host/main/icon.png",
   "website": "https://t.me/cheatvaultglobal",
-  "description": "Official source for THE IPA STORE. Download and install apps directly on your iPhone.",
+  "tintColor": "#0A84FF",
+  "featuredApps": [
+    "com.dts.freefireth"
+  ],
   "apps": [
     {
       "name": "Free Fire",
       "bundleIdentifier": "com.dts.freefireth",
-      "developerName": "Garena International I Private Limited",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/ea/3a/94ea3a76-59e7-54e9-c831-d3ca3e7e2218/AppIcon-0-0-1x_U007epad-0-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Free Fire - Garena Free Fire: Fluorite Edition :) ",
+      "developerName": "Garena International I",
       "subtitle": "Battle Royale",
-      "tintColor": "e05c1a",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2025-04-05T08:00:00Z",
-          "size": 1181116006,
-          "downloadURL": "https://github.com/asutoshkhanna354-del/ipa-host/releases/download/v2.0/Free.Fire.ipa",
-          "localizedDescription": "Free Fire IPA for on-device signing via THE IPA STORE."
-        }
-      ],
-      "appPermissions": {}
+      "version": "1.0",
+      "versionDate": "2024-01-01",
+      "versionDescription": "Free Fire IPA for on-device signing via THE IPA STORE.",
+      "downloadURL": "https://github.com/asutoshkhanna354-del/ipa-host/releases/download/v2.0/Free.Fire.ipa",
+      "localizedDescription": "Free Fire - Garena Free Fire: Fluorite Edition :)",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/8d/ba/4b8dba37-a240-f450-9f99-c3a611c96536/AppIcon-1767797054-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#FF8C00",
+      "size": 0,
+      "screenshotURLs": []
     },
     {
       "name": "THE IPA STORE",
       "bundleIdentifier": "thewonderofyou.IPStore",
-      "developerName": "CheatVault",
+      "developerName": "THE IPA STORE",
+      "subtitle": "On-device IPA Signer",
+      "version": "2.6.0",
+      "versionDate": "2024-01-01",
+      "versionDescription": "THE IPA STORE \u2014 on-device IPA signing.",
+      "downloadURL": "https://github.com/asutoshkhanna354-del/ipa-host/releases/download/v1.0/app.ipa",
+      "localizedDescription": "Sign any IPA on your device. No PC required.",
       "iconURL": "https://raw.githubusercontent.com/asutoshkhanna354-del/ipa-host/main/icon.png",
-      "localizedDescription": "THE IPA STORE - Sign and install iOS apps on-device without a computer. Brought to you by DARK (Divya Shekhar) and CheatVault (Pranjal Pandey).",
-      "subtitle": "On-device IPA signer",
-      "tintColor": "848ef9",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "2.6.0",
-          "date": "2025-04-05T08:00:00Z",
-          "size": 14200000,
-          "downloadURL": "https://raw.githubusercontent.com/asutoshkhanna354-del/ipa-host/main/app.ipa",
-          "localizedDescription": "Latest build with pre-loaded XL AXIATA certificate and custom branding."
-        }
-      ],
-      "appPermissions": {}
+      "tintColor": "#0A84FF",
+      "size": 0,
+      "screenshotURLs": []
     }
   ],
   "news": []
