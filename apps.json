@@ -1,0 +1,30 @@
+{
+  "name": "THE IPA STORE",
+  "identifier": "cheatvault.ipastore.source",
+  "iconURL": "https://raw.githubusercontent.com/asutoshkhanna354-del/ipa-host/main/icon.png",
+  "website": "https://t.me/cheatvaultglobal",
+  "description": "Official source for THE IPA STORE. Download and install apps directly on your iPhone.",
+  "apps": [
+    {
+      "name": "THE IPA STORE",
+      "bundleIdentifier": "thewonderofyou.IPStore",
+      "developerName": "CheatVault",
+      "iconURL": "https://raw.githubusercontent.com/asutoshkhanna354-del/ipa-host/main/icon.png",
+      "localizedDescription": "THE IPA STORE - Sign and install iOS apps on-device without a computer. Brought to you by DARK (Divya Shekhar) and CheatVault (Pranjal Pandey).",
+      "subtitle": "On-device IPA signer",
+      "tintColor": "848ef9",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.6.0",
+          "date": "2025-04-05T08:00:00Z",
+          "size": 14200000,
+          "downloadURL": "https://raw.githubusercontent.com/asutoshkhanna354-del/ipa-host/main/app.ipa",
+          "localizedDescription": "Latest build with pre-loaded XL AXIATA certificate and custom branding."
+        }
+      ],
+      "appPermissions": {}
+    }
+  ],
+  "news": []
+}
